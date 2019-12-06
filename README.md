@@ -93,7 +93,7 @@ header: Content-Type: "application/x-www-form-urlencoded"
 ```
 图片如下：
 
-![车型识别](https://gitee.com/NFUNM066/first/raw/master/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB.png)
+![车辆损伤识别](https://gitee.com/NFUNM066/first/raw/master/%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB.jpg)
 
 - 输出：汽车的详细信息
 
@@ -194,6 +194,60 @@ header: Content-Type: "application/x-www-form-urlencoded"
 
 ```
 
-
+Params
+image="图片的Base64编码"
+Post
+https://aip.baidubce.com/rest/2.0/ocr/v1/driving_license?access_token="您的access_token"
+Header
+header: Content-Type: "application/x-www-form-urlencoded"
 
 ```
+
+图片如下：
+
+![车辆损伤识别](https://gitee.com/NFUNM066/first/raw/master/%E9%A9%BE%E9%A9%B6%E8%AF%81.jpg)
+
+- 输出：驾驶证的信息
+
+```
+
+{
+	"log_id": "4162219103781881798",
+	"words_result_num": 10,
+	"words_result": {
+		"证号": {
+			"words": "210282198809294228"
+		},
+		"有效期限": {
+			"words": "20150518"
+		},
+		"准驾车型": {
+			"words": "C1"
+		},
+		"住址": {
+			"words": "辽宁省大连市甘井子区"
+		},
+		"至": {
+			"words": "20210518"
+		},
+		"姓名": {
+			"words": "王桃桃"
+		},
+		"国籍": {
+			"words": "中国"
+		},
+		"出生日期": {
+			"words": "19880929"
+		},
+		"性别": {
+			"words": "女"
+		},
+		"初次领证日期": {
+			"words": "20150518"
+		}
+	}
+}
+
+```
+
+### API2.使用比较分析 5%
