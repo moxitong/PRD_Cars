@@ -269,7 +269,7 @@ header: Content-Type: "application/x-www-form-urlencoded"
 
 ```
 
-### API2使用比较分析 5%
+### API2使用比较分析
 #### 1.图像识别技术
 目前我只找到两家公司具有车型识别的技术，如下所示：
 
