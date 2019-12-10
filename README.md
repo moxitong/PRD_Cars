@@ -345,3 +345,7 @@ header: Content-Type: "application/x-www-form-urlencoded"
 3.汽车场景文字识别API
 
 - 25元/千次-40元/次 
+
+### API4.加分项
+
+使用复杂度：已使用3个人工智能API之输入输出，分别是[车型识别API](https://ai.baidu.com/tech/vehicle/car)、[车辆外观损伤识别API](https://ai.baidu.com/tech/vehicle/damage)、[汽车场景文字识别API](https://ai.baidu.com/tech/ocr_cars)
