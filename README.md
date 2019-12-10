@@ -340,7 +340,7 @@ header: Content-Type: "application/x-www-form-urlencoded"
 
 2.车辆外观损伤识别API
 
-- 
+- 1.5元/千次-3.0元/千次
 
 3.汽车场景文字识别API
 
