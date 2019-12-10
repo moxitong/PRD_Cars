@@ -300,7 +300,7 @@ header: Content-Type: "application/x-www-form-urlencoded"
 以下产品均为百度智能云旗下的API工具，且均经过使用与测试。
 #### API市场竞争程度
 
-1.车辆分析API
+1.车型识别API
 
 - 从搜索结果看，百度云在[bing上的搜索结果](https://cn.bing.com/search?q=%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%ABapi&qs=n&form=QBRE&sp=-1&pq=%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%ABapi&sc=1-7&sk=&cvid=4BFFB12A77FD413E8BDA1A961F879FFE)为第一名，可以推测其使用面积较其他公司要广
 - 从竞争对手看，目前市面上拥有车辆分析api技术的公司数量较少，分别是[百度云](https://ai.baidu.com/ai-doc/VEHICLE/tk3hb3eiv)以及[腾讯云](https://cloud.tencent.com/document/api/865/36456)，二者价格相差无几，但百度云添加了能够显示车辆宽度和高度的特点，从侧面上看功能更齐全
@@ -317,5 +317,31 @@ header: Content-Type: "application/x-www-form-urlencoded"
 
 #### 输入输出限制
 
-1.车辆分析API
+1.车型识别API
 
+- 输入：汽车照片
+- 输出：汽车的详细信息
+
+2.车辆外观损伤识别API
+
+- 输入：汽车的受损部位照片
+- 输出：车辆的受损部件和损伤类型
+
+3.汽车场景文字识别API
+
+- 输入：驾驶证照片
+- 输出：驾驶证的信息
+
+#### 定价
+
+1.车型识别API
+
+- 1.5元/千次-3.0元/千次
+
+2.车辆外观损伤识别API
+
+- 
+
+3.汽车场景文字识别API
+
+- 25元/千次-40元/次 
