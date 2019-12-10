@@ -300,9 +300,22 @@ header: Content-Type: "application/x-www-form-urlencoded"
 以下产品均为百度智能云旗下的API工具，且均经过使用与测试。
 #### API市场竞争程度
 
-1.百度云-车辆分析API
+1.车辆分析API
 
-- 从搜索结果看，百度云在(bing上的搜索结果)[https://cn.bing.com/search?q=%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%ABapi&qs=n&form=QBRE&sp=-1&pq=%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%ABapi&sc=1-7&sk=&cvid=4BFFB12A77FD413E8BDA1A961F879FFE]为第一名，可以推测其使用面积较其他公司要广
+- 从搜索结果看，百度云在[bing上的搜索结果](https://cn.bing.com/search?q=%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%ABapi&qs=n&form=QBRE&sp=-1&pq=%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%ABapi&sc=1-7&sk=&cvid=4BFFB12A77FD413E8BDA1A961F879FFE)为第一名，可以推测其使用面积较其他公司要广
 - 从竞争对手看，目前市面上拥有车辆分析api技术的公司数量较少，分别是[百度云](https://ai.baidu.com/ai-doc/VEHICLE/tk3hb3eiv)以及[腾讯云](https://cloud.tencent.com/document/api/865/36456)，二者价格相差无几，但百度云添加了能够显示车辆宽度和高度的特点，从侧面上看功能更齐全
 
-2.百度云-车辆外观识别API
+2.车辆外观损伤识别API
+
+- 从具体功能细节上看，百度云的车辆外观识别API为目前市面上比较少有的一类针对[汽车损伤识别的API](https://ai.baidu.com/tech/vehicle/damage)，因此市场竞争力较大。
+
+3.汽车场景文字识别API
+
+- 从性价比看，百度云该API的调用价格（以驾驶证识别为例）为[25元/千次](https://ai.baidu.com/ai-doc/OCR/yk3h7y3ks)，比腾讯云（[30元/千次](https://cloud.tencent.com/product/vehicleocr/details)）以及[阿里云](https://cloud.tencent.com/document/api/865/36456)的价格都要低，性价比更高。
+
+- 从搜索结果看，百度云在[bing上的搜索结果](https://cn.bing.com/search?q=%E9%A9%BE%E9%A9%B6%E8%AF%81%E8%AF%86%E5%88%ABAPI&qs=n&form=QBRE&sp=-1&pq=%E9%A9%BE%E9%A9%B6%E8%AF%81%E8%AF%86%E5%88%ABapi&sc=1-8&sk=&cvid=9765360C4DC44277B5CB2E001A904C84)并不靠前，其搜索率可能并不太占优势。
+
+#### 输入输出限制
+
+1.车辆分析API
+
