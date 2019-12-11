@@ -102,6 +102,9 @@
 ### 原型2信息设计
 
 ### 原型3原型文档
+- [“学富五车APP”原型文档](http://nfunm066.gitee.io/api_final)
+
+- [“学富五车APP”原型文档下载](https://gitee.com/NFUNM066/API_Final)
 
 ### 原型4口头操作说明
 
