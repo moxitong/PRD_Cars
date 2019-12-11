@@ -97,7 +97,7 @@
 ### 原型1交互及界面设计
 #### 产品架构图
 
-![产品架构图](https://gitee.com/NFUNM066/first/raw/master/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
+![产品架构图](https://gitee.com/NFUNM066/first/raw/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84.png)
 
 ### 原型2信息设计
 
