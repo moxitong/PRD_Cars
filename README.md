@@ -99,12 +99,71 @@
 
 ![产品架构图](https://gitee.com/NFUNM066/first/raw/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84.png)
 
+- 1.拍拍看（自动识别相应API）
+
+![拍拍看](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BA%A4%E4%BA%921.png)
+
+1.拍拍看可以自动识别所拍摄的具体内容，点击“按下拍照”按钮可查看具体内容的情况。
+
+2.点击“从相册中选择”可以跳转到用户手机里面的相册
+
+3.底部菜单栏图标均可实现点击跳转至相应页面的效果
+
+- 2.拍摄成功（车辆证件文字API）
+
+![拍摄成功（车辆证件文字）](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BA%A4%E4%BA%922.png)
+![跳转证件资料](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BF%A1%E6%81%AF1.png)
+
+1.点击上方“返回重新拍摄可返回到”拍拍看“页面
+
+2.点击“保存到证件资料”将跳转到“证件资料”页面
+
+3.底部菜单栏图标均可实现点击跳转至相应页面的效果
+
+- 3.拍摄成功（车辆损伤识别API）
+
+![拍摄成功（车辆损伤识别）](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BA%A4%E4%BA%923.png)
+
+1.点击上方“返回重新拍摄可返回到”拍拍看“页面
+
+2.底部菜单栏图标均可实现点击跳转至相应页面的效果
+
 ### 原型2信息设计
 
-### 原型3原型文档
-- [“学富五车APP”原型文档](http://nfunm066.gitee.io/api_final)
+- 1.拍摄失败
 
-- [“学富五车APP”原型文档下载](http://nfunm066.gitee.io/api_final/#id=aku084&p=%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84&g=1)
+![拍摄失败](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BA%A4%E4%BA%924.png)
+
+1.点击“重新拍摄可返回到”拍拍看“页面
+
+2.点击“回到首页”将跳转到首页
+
+3.底部菜单栏图标均可实现点击跳转至相应页面的效果
+
+- 2.证件资料
+
+![证件资料](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BF%A1%E6%81%AF1.png)
+
+1.系统自动将证件类型划分为目前可以识别的分类
+
+2.点击可进入相对应的分类
+
+3.如果因证件破损而导致拍摄无法识别，可以点击“手动输入”进入手动页面自己进行证件的输入
+
+4.底部菜单栏图标均可实现点击跳转至相应页面的效果
+
+- 3.手动输入
+
+![证件资料](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BF%A1%E6%81%AF2.png)
+
+1.如果因证件破损而导致拍摄无法识别，可以点击“手动输入”进入手动页面自己进行证件的输入
+
+2.底部菜单栏图标均可实现点击跳转至相应页面的效果。
+
+### 原型3原型文档
+- [“学富五车APP”原型文档](http://nfunm066.gitee.io/api_final/#id=aku084&p=%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84&g=1)
+
+- [“学富五车APP”原型文档下载](https://gitee.com/NFUNM066/API_Final)
 
 ### 原型4口头操作说明
 
