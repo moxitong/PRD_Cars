@@ -104,7 +104,7 @@
 ### 原型3原型文档
 - [“学富五车APP”原型文档](http://nfunm066.gitee.io/api_final)
 
-- [“学富五车APP”原型文档下载](https://gitee.com/NFUNM066/API_Final)
+- [“学富五车APP”原型文档下载](http://nfunm066.gitee.io/api_final/#id=aku084&p=%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84&g=1)
 
 ### 原型4口头操作说明
 
