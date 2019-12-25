@@ -101,7 +101,7 @@
 
 - 1.拍拍看（自动识别相应API）
 
-![拍拍看](https://gitee.com/NFUNM066/first/raw/master/%E6%8B%8D%E6%8B%8D%E7%9C%8B.png)
+![拍拍看](https://gitee.com/NFUNM066/first/raw/master/%E6%8B%8D%E6%8B%8D%E7%9C%8B.jpg)
 
 1.拍拍看可以自动识别所拍摄的具体内容，点击“按下拍照”按钮可查看具体内容的情况。
 
