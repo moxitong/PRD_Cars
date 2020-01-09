@@ -100,9 +100,6 @@
 
 ## 原型 20%
 ### 原型1交互及界面设计
-#### 产品架构图
-
-![产品架构图](https://gitee.com/NFUNM066/first/raw/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84.png)
 
 - 1.拍拍看（自动识别相应API）
 
@@ -133,9 +130,7 @@
 
 2.底部菜单栏图标均可实现点击跳转至相应页面的效果
 
-### 原型2信息设计
-
-- 1.拍摄失败
+- 4.拍摄失败
 
 ![拍摄失败](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BA%A4%E4%BA%924.png)
 
@@ -145,7 +140,7 @@
 
 3.底部菜单栏图标均可实现点击跳转至相应页面的效果
 
-- 2.证件资料
+- 5.证件资料
 
 ![证件资料](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BF%A1%E6%81%AF1.png)
 
@@ -157,13 +152,18 @@
 
 4.底部菜单栏图标均可实现点击跳转至相应页面的效果
 
-- 3.手动输入
+- 6.手动输入
 
 ![证件资料](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BF%A1%E6%81%AF2.png)
 
 1.如果因证件破损而导致拍摄无法识别，可以点击“手动输入”进入手动页面自己进行证件的输入
 
 2.底部菜单栏图标均可实现点击跳转至相应页面的效果。
+
+### 原型2信息设计
+#### 产品架构图
+
+![产品架构图](https://gitee.com/NFUNM066/first/raw/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84.png)
 
 ### 原型3原型文档
 - [“学富五车APP”原型文档](http://nfunm066.gitee.io/api_final/#id=aku084&p=%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84&g=1)
