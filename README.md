@@ -111,7 +111,15 @@
 
 3.底部菜单栏图标均可实现点击跳转至相应页面的效果
 
-- 2.拍摄成功（车辆证件文字API）
+- 2.拍摄成功（车型识别API）
+
+![拍摄成功（车型识别）](https://gitee.com/NFUNM066/first/raw/master/%E6%8B%8D%E6%91%84%E6%88%90%E5%8A%9F-%E8%BD%A6%E5%9E%8B%E8%AF%86%E5%88%AB.jpg)
+
+1.点击上方“返回重新拍摄可返回到”拍拍看“页面
+
+2.底部菜单栏图标均可实现点击跳转至相应页面的效果。
+
+- 3.拍摄成功（车辆证件文字API）
 
 ![拍摄成功（车辆证件文字）](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BA%A4%E4%BA%922.png)
 ![跳转证件资料](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BF%A1%E6%81%AF1.png)
@@ -122,7 +130,7 @@
 
 3.底部菜单栏图标均可实现点击跳转至相应的页面的效果
 
-- 3.拍摄成功（车辆损伤识别API）
+- 4.拍摄成功（车辆损伤识别API）
 
 ![拍摄成功（车辆损伤识别）](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BA%A4%E4%BA%923.png)
 
@@ -130,7 +138,7 @@
 
 2.底部菜单栏图标均可实现点击跳转至相应页面的效果
 
-- 4.拍摄失败
+- 5.拍摄失败
 
 ![拍摄失败](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BA%A4%E4%BA%924.png)
 
@@ -140,7 +148,7 @@
 
 3.底部菜单栏图标均可实现点击跳转至相应页面的效果
 
-- 5.证件资料
+- 6.证件资料
 
 ![证件资料](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BF%A1%E6%81%AF1.png)
 
@@ -152,7 +160,7 @@
 
 4.底部菜单栏图标均可实现点击跳转至相应页面的效果
 
-- 6.手动输入
+- 7.手动输入
 
 ![证件资料](https://gitee.com/NFUNM066/API_Final/raw/master/%E4%BF%A1%E6%81%AF2.png)
 
