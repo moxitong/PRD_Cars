@@ -182,7 +182,7 @@
 
 ### 原型4口头操作说明
 
-- 该内容已在课堂完成评分
+[学富五车APP_语音口白PPT](https://www.bilibili.com/video/av82778370)
 
 ## API产品使用关键AI或机器学习之API的输出入展示
 ### API1使用水平
